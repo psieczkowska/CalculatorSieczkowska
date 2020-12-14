@@ -2,7 +2,95 @@
     -fx-font-size: 16pt;
     -fx-font-weight: bold;
     -fx-font-family: "Courier New";
-    -fx-base: rgb(132, 145, 47);
-    -fx-background: rgb(225, 228, 203);
+    -fx-base: rgb(200, 50, 60);
+    -fx-background: rgb(200, 50, 60);
 
+}
+
+.button {
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnC {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnC {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnChangeSign {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnEqual {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnPercent {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnMultiply {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnDivide {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnSubstract {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#btnAddition {
+    -fx-base: rgb(205, 92, 92);
+    -fx-background: rgb(205, 92, 92);
+    -fx-text-fill: rgb(139, 0, 0);
+    -fx-border-color: rgb(139, 0, 0);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
 }
